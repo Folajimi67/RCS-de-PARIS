@@ -1,5 +1,5 @@
 # RCS-de-PARIS
-Registre du Commerce et des Sociétés (RCS) de Paris
+Registre du Commerce et des Sociétés (RCS) de Paris de la Chambre du Commerce et de l'Industrie de Paris.
 
 **1. Purpose**
 
