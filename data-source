@@ -1,0 +1,61 @@
+Data-source readme : 
+
+The data source is the listing of api and other sources from various institutional, enterprises, government and open data sources. 
+The data is mainly agregated in the form of APIs, even though there is rarely some simple listings. 
+The data are visible on this open registry to anybody, feel free to contact us if there is any issue, feel fre to fork the database.
+
+Data Description : 
+
+You will find a Json Description of the data, it is the more simple to understand. 
+
+{
+  "Business": [
+    {
+      "BusinessID": 1,
+      "BusinessName": "Tech Innovations",
+      "BusinessType": "Technology",
+      "OwnerID": 101,
+      "RegistrationDate": "2023-01-15"
+    },
+    {
+      "BusinessID": 2,
+      "BusinessName": "Green Grocer",
+      "BusinessType": "Retail",
+      "OwnerID": 102,
+      "RegistrationDate": "2023-02-20"
+    }
+  ],
+  "Owner": [
+    {
+      "OwnerID": 101,
+      "OwnerName": "Alice Smith",
+      "Email": "alice.smith@example.com",
+      "Phone": "123-456-7890"
+    },
+    {
+      "OwnerID": 102,
+      "OwnerName": "Bob Johnson",
+      "Email": "bob.johnson@example.com",
+      "Phone": "098-765-4321"
+    }
+  ],
+  "Transaction": [
+    {
+      "TransactionID": 1,
+      "BusinessID": 1,
+      "Amount": 5000,
+      "TransactionDate": "2023-03-01"
+    },
+    {
+      "TransactionID": 2,
+      "BusinessID": 2,
+      "Amount": 1500,
+      "TransactionDate": "2023-03-05"
+    }
+  ]
+}
+
+Data Source APIs : 
+
+Data Source DATAs : 
+
