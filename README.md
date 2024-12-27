@@ -3,7 +3,7 @@ Registre du Commerce et des Sociétés (RCS) de Paris
 
 **1. Purpose**
 
-Registration of Businesses: To formally register companies and organizations.
+Registration of Businesses: To formally register companies and organizations. n\
 Transparency: To provide public access to business information.
 Regulatory Compliance: To ensure businesses meet legal requirements.
 
