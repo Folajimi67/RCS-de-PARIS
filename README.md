@@ -2,10 +2,13 @@
 Registre du Commerce et des Sociétés (RCS) de Paris
 
 **1. Purpose**
+
 Registration of Businesses: To formally register companies and organizations.
 Transparency: To provide public access to business information.
 Regulatory Compliance: To ensure businesses meet legal requirements.
+
 **2. Structure**
+
 a. Database Schema
 Entities:
 Businesses
@@ -34,7 +37,9 @@ Display business details, including ownership and status.
 Admin Interface:
 Dashboard for managing registrations.
 Tools for updating business status, adding owners, and managing transactions.
+
 **3. Functionality**
+
 Registration Process:
 Online form for new business registration.
 Document upload feature for necessary paperwork.
@@ -58,7 +63,9 @@ Ensure compliance with local regulations regarding business registration and dat
 Front-end: HTML, CSS, JavaScript (React, Angular, or Vue.js)
 Back-end: Node.js, Python (Django or Flask), or PHP
 Database: MySQL, PostgreSQL, or MongoDB
+
 **7. Implementation Steps**
+
 Define requirements and gather stakeholder input.
 Design database and user interfaces.
 Develop backend and frontend components.
